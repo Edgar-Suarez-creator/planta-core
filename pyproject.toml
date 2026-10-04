@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "planta-core"
+version = "0.1.0"
+description = "Planta de referencia compartida: tags ISA 5.1, taxonomía ISO 14224, propiedades por clase y generadores sintéticos"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["planta_core*"]

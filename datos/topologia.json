@@ -1,0 +1,794 @@
+{
+ "areas": {
+  "1105": "Deshidratación con glicol (TEG)",
+  "1205": "Compresión de gas",
+  "1305": "Aire de instrumentos",
+  "1405": "Agua contra incendio"
+ },
+ "sistemas": {
+  "1105-S01": {
+   "area": "1105",
+   "nombre": "Separación de entrada"
+  },
+  "1105-S02": {
+   "area": "1105",
+   "nombre": "Contacto con glicol"
+  },
+  "1105-S03": {
+   "area": "1105",
+   "nombre": "Regeneración de glicol"
+  },
+  "1205-S01": {
+   "area": "1205",
+   "nombre": "Compresión de gas"
+  },
+  "1205-S02": {
+   "area": "1205",
+   "nombre": "Aceite de lubricación"
+  },
+  "1305-S01": {
+   "area": "1305",
+   "nombre": "Generación de aire"
+  },
+  "1305-S02": {
+   "area": "1305",
+   "nombre": "Secado de aire"
+  },
+  "1405-S01": {
+   "area": "1405",
+   "nombre": "Bombeo contra incendio"
+  }
+ },
+ "equipos": {
+  "1105-V-01": {
+   "descripcion": "Separador de entrada",
+   "sistema": "1105-S01",
+   "critico": true,
+   "modelo": "SEP-H-1800",
+   "tipo": "V"
+  },
+  "1105-PT-01": {
+   "descripcion": "Transmisor de presión del separador de entrada",
+   "sistema": "1105-S01",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  },
+  "1105-V-02": {
+   "descripcion": "Torre contactora de TEG",
+   "sistema": "1105-S02",
+   "critico": true,
+   "modelo": "TC-24",
+   "tipo": "V"
+  },
+  "1105-PT-02": {
+   "descripcion": "Transmisor de presión de la contactora",
+   "sistema": "1105-S02",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  },
+  "1105-E-02": {
+   "descripcion": "Enfriador de glicol pobre",
+   "sistema": "1105-S02",
+   "critico": false,
+   "modelo": "AC-G40",
+   "tipo": "E"
+  },
+  "1105-PCV-01": {
+   "descripcion": "Válvula de control de presión del tanque flash",
+   "sistema": "1105-S03",
+   "critico": false,
+   "modelo": "CV-2-300",
+   "tipo": "PCV"
+  },
+  "1105-V-03": {
+   "descripcion": "Tanque flash de glicol rico",
+   "sistema": "1105-S03",
+   "critico": false,
+   "modelo": "FT-6",
+   "tipo": "V"
+  },
+  "1105-E-01": {
+   "descripcion": "Intercambiador glicol rico / glicol pobre",
+   "sistema": "1105-S03",
+   "critico": true,
+   "modelo": "HX-GG-120",
+   "tipo": "E"
+  },
+  "1105-V-04": {
+   "descripcion": "Rehervidor de glicol",
+   "sistema": "1105-S03",
+   "critico": true,
+   "modelo": "RB-350",
+   "tipo": "V"
+  },
+  "1105-V-05": {
+   "descripcion": "Acumulador de glicol pobre",
+   "sistema": "1105-S03",
+   "critico": false,
+   "modelo": "AC-8",
+   "tipo": "V"
+  },
+  "1105-P-01": {
+   "descripcion": "Bomba de glicol pobre A",
+   "sistema": "1105-S03",
+   "critico": true,
+   "modelo": "BCA-50-200",
+   "tipo": "P"
+  },
+  "1105-P-02": {
+   "descripcion": "Bomba de glicol pobre B",
+   "sistema": "1105-S03",
+   "critico": true,
+   "modelo": "BCA-50-200",
+   "tipo": "P"
+  },
+  "1205-V-01": {
+   "descripcion": "Depurador de succión",
+   "sistema": "1205-S01",
+   "critico": true,
+   "modelo": "SCR-36",
+   "tipo": "V"
+  },
+  "1205-PT-01": {
+   "descripcion": "Transmisor de presión de succión",
+   "sistema": "1205-S01",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  },
+  "1205-C-01": {
+   "descripcion": "Compresor reciprocante A",
+   "sistema": "1205-S01",
+   "critico": true,
+   "modelo": "RC-2400",
+   "tipo": "C"
+  },
+  "1205-C-02": {
+   "descripcion": "Compresor reciprocante B",
+   "sistema": "1205-S01",
+   "critico": true,
+   "modelo": "RC-2400",
+   "tipo": "C"
+  },
+  "1205-PCV-01": {
+   "descripcion": "Válvula de reciclo de compresión",
+   "sistema": "1205-S01",
+   "critico": false,
+   "modelo": "CV-4-600",
+   "tipo": "PCV"
+  },
+  "1205-E-01": {
+   "descripcion": "Aeroenfriador de descarga",
+   "sistema": "1205-S01",
+   "critico": true,
+   "modelo": "AC-D90",
+   "tipo": "E"
+  },
+  "1205-V-02": {
+   "descripcion": "Depurador de descarga",
+   "sistema": "1205-S01",
+   "critico": false,
+   "modelo": "SCR-30",
+   "tipo": "V"
+  },
+  "1205-PT-02": {
+   "descripcion": "Transmisor de presión de descarga",
+   "sistema": "1205-S01",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  },
+  "1205-V-03": {
+   "descripcion": "Tanque de aceite de lubricación",
+   "sistema": "1205-S02",
+   "critico": false,
+   "modelo": "TK-LO-2",
+   "tipo": "V"
+  },
+  "1205-P-01": {
+   "descripcion": "Bomba de aceite de lubricación A",
+   "sistema": "1205-S02",
+   "critico": true,
+   "modelo": "BEN-25",
+   "tipo": "P"
+  },
+  "1205-P-02": {
+   "descripcion": "Bomba de aceite de lubricación B",
+   "sistema": "1205-S02",
+   "critico": true,
+   "modelo": "BEN-25",
+   "tipo": "P"
+  },
+  "1205-E-02": {
+   "descripcion": "Enfriador de aceite de lubricación",
+   "sistema": "1205-S02",
+   "critico": false,
+   "modelo": "HX-LO-15",
+   "tipo": "E"
+  },
+  "1305-C-01": {
+   "descripcion": "Compresor de aire de tornillo A",
+   "sistema": "1305-S01",
+   "critico": true,
+   "modelo": "SA-75",
+   "tipo": "C"
+  },
+  "1305-C-02": {
+   "descripcion": "Compresor de aire de tornillo B",
+   "sistema": "1305-S01",
+   "critico": true,
+   "modelo": "SA-75",
+   "tipo": "C"
+  },
+  "1305-E-01": {
+   "descripcion": "Posenfriador de aire",
+   "sistema": "1305-S01",
+   "critico": true,
+   "modelo": "AC-A12",
+   "tipo": "E"
+  },
+  "1305-V-01": {
+   "descripcion": "Pulmón de aire húmedo",
+   "sistema": "1305-S01",
+   "critico": false,
+   "modelo": "RV-3",
+   "tipo": "V"
+  },
+  "1305-V-02": {
+   "descripcion": "Torre secadora A",
+   "sistema": "1305-S02",
+   "critico": true,
+   "modelo": "DS-400",
+   "tipo": "V"
+  },
+  "1305-V-03": {
+   "descripcion": "Torre secadora B",
+   "sistema": "1305-S02",
+   "critico": true,
+   "modelo": "DS-400",
+   "tipo": "V"
+  },
+  "1305-K-01": {
+   "descripcion": "Soplador de regeneración del secador",
+   "sistema": "1305-S02",
+   "critico": false,
+   "modelo": "BL-15",
+   "tipo": "K"
+  },
+  "1305-V-04": {
+   "descripcion": "Pulmón de aire seco",
+   "sistema": "1305-S02",
+   "critico": false,
+   "modelo": "RV-5",
+   "tipo": "V"
+  },
+  "1305-PT-01": {
+   "descripcion": "Transmisor de presión del cabezal de aire",
+   "sistema": "1305-S02",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  },
+  "1405-V-01": {
+   "descripcion": "Tanque de agua contra incendio",
+   "sistema": "1405-S01",
+   "critico": true,
+   "modelo": "TK-FW-900",
+   "tipo": "V"
+  },
+  "1405-P-01": {
+   "descripcion": "Bomba contra incendio eléctrica",
+   "sistema": "1405-S01",
+   "critico": true,
+   "modelo": "BCI-1500",
+   "tipo": "P"
+  },
+  "1405-P-02": {
+   "descripcion": "Bomba contra incendio diésel",
+   "sistema": "1405-S01",
+   "critico": true,
+   "modelo": "BCI-1500D",
+   "tipo": "P"
+  },
+  "1405-P-03": {
+   "descripcion": "Bomba jockey",
+   "sistema": "1405-S01",
+   "critico": true,
+   "modelo": "BJ-10",
+   "tipo": "P"
+  },
+  "1405-PCV-01": {
+   "descripcion": "Válvula de alivio de presión de la red",
+   "sistema": "1405-S01",
+   "critico": false,
+   "modelo": "CV-3-150",
+   "tipo": "PCV"
+  },
+  "1405-PT-01": {
+   "descripcion": "Transmisor de presión de la red contra incendio",
+   "sistema": "1405-S01",
+   "critico": false,
+   "modelo": "PTX-3051",
+   "tipo": "PT"
+  }
+ },
+ "valvulas_bloqueo": [
+  "1105-HV-01",
+  "1105-HV-02",
+  "1105-HV-03",
+  "1105-HV-04",
+  "1105-HV-05",
+  "1105-HV-06",
+  "1105-HV-07",
+  "1105-HV-08",
+  "1105-HV-09",
+  "1105-HV-10",
+  "1105-HV-11",
+  "1105-HV-12",
+  "1105-HV-13",
+  "1205-HV-01",
+  "1205-HV-02",
+  "1205-HV-03",
+  "1205-HV-04",
+  "1205-HV-05",
+  "1205-HV-06",
+  "1205-HV-07",
+  "1205-HV-08",
+  "1205-HV-09",
+  "1205-HV-10",
+  "1205-HV-11",
+  "1205-HV-12",
+  "1305-HV-01",
+  "1305-HV-02",
+  "1305-HV-03",
+  "1305-HV-04",
+  "1305-HV-05",
+  "1305-HV-06",
+  "1305-HV-07",
+  "1305-HV-08",
+  "1305-HV-09",
+  "1305-HV-10",
+  "1305-HV-11",
+  "1405-HV-01",
+  "1405-HV-02",
+  "1405-HV-03",
+  "1405-HV-04",
+  "1405-HV-05",
+  "1405-HV-06",
+  "1405-HV-07",
+  "1405-HV-08",
+  "1405-HV-09"
+ ],
+ "instrumentos": {
+  "1105-PT-01": "1105-V-01",
+  "1105-PT-02": "1105-V-02",
+  "1205-PT-01": "1205-V-01",
+  "1205-PT-02": "1205-V-02",
+  "1305-PT-01": "1305-V-04",
+  "1405-PT-01": "1405-P-03"
+ },
+ "conexiones": [
+  [
+   "LIM-GAS-ENTRADA",
+   "1105-HV-01"
+  ],
+  [
+   "1105-HV-01",
+   "1105-V-01"
+  ],
+  [
+   "1105-V-01",
+   "1105-HV-02"
+  ],
+  [
+   "1105-HV-02",
+   "1105-V-02"
+  ],
+  [
+   "1105-V-02",
+   "1105-HV-03"
+  ],
+  [
+   "1105-HV-03",
+   "1205-HV-01"
+  ],
+  [
+   "1105-V-02",
+   "1105-HV-05"
+  ],
+  [
+   "1105-HV-05",
+   "1105-PCV-01"
+  ],
+  [
+   "1105-PCV-01",
+   "1105-V-03"
+  ],
+  [
+   "1105-V-03",
+   "1105-HV-06"
+  ],
+  [
+   "1105-HV-06",
+   "1105-E-01"
+  ],
+  [
+   "1105-E-01",
+   "1105-HV-07"
+  ],
+  [
+   "1105-HV-07",
+   "1105-V-04"
+  ],
+  [
+   "1105-V-04",
+   "1105-V-05"
+  ],
+  [
+   "1105-V-05",
+   "1105-HV-08"
+  ],
+  [
+   "1105-HV-08",
+   "1105-E-01"
+  ],
+  [
+   "1105-E-01",
+   "1105-HV-04"
+  ],
+  [
+   "1105-HV-04",
+   "HDR-1105-SUC"
+  ],
+  [
+   "HDR-1105-SUC",
+   "1105-HV-09"
+  ],
+  [
+   "1105-HV-09",
+   "1105-P-01"
+  ],
+  [
+   "1105-P-01",
+   "1105-HV-10"
+  ],
+  [
+   "1105-HV-10",
+   "HDR-1105-DES"
+  ],
+  [
+   "HDR-1105-SUC",
+   "1105-HV-11"
+  ],
+  [
+   "1105-HV-11",
+   "1105-P-02"
+  ],
+  [
+   "1105-P-02",
+   "1105-HV-12"
+  ],
+  [
+   "1105-HV-12",
+   "HDR-1105-DES"
+  ],
+  [
+   "HDR-1105-DES",
+   "1105-E-02"
+  ],
+  [
+   "1105-E-02",
+   "1105-HV-13"
+  ],
+  [
+   "1105-HV-13",
+   "1105-V-02"
+  ],
+  [
+   "1205-HV-01",
+   "1205-V-01"
+  ],
+  [
+   "1205-V-01",
+   "HDR-1205-SUC"
+  ],
+  [
+   "HDR-1205-SUC",
+   "1205-HV-02"
+  ],
+  [
+   "1205-HV-02",
+   "1205-C-01"
+  ],
+  [
+   "1205-C-01",
+   "1205-HV-03"
+  ],
+  [
+   "1205-HV-03",
+   "HDR-1205-DES"
+  ],
+  [
+   "HDR-1205-SUC",
+   "1205-HV-04"
+  ],
+  [
+   "1205-HV-04",
+   "1205-C-02"
+  ],
+  [
+   "1205-C-02",
+   "1205-HV-05"
+  ],
+  [
+   "1205-HV-05",
+   "HDR-1205-DES"
+  ],
+  [
+   "HDR-1205-DES",
+   "1205-E-01"
+  ],
+  [
+   "1205-E-01",
+   "1205-V-02"
+  ],
+  [
+   "1205-V-02",
+   "1205-HV-06"
+  ],
+  [
+   "1205-HV-06",
+   "LIM-GAS-EXPORTACION"
+  ],
+  [
+   "HDR-1205-DES",
+   "1205-PCV-01"
+  ],
+  [
+   "1205-PCV-01",
+   "1205-HV-07"
+  ],
+  [
+   "1205-HV-07",
+   "HDR-1205-SUC"
+  ],
+  [
+   "1205-V-03",
+   "1205-HV-08"
+  ],
+  [
+   "1205-HV-08",
+   "1205-P-01"
+  ],
+  [
+   "1205-P-01",
+   "1205-HV-09"
+  ],
+  [
+   "1205-HV-09",
+   "HDR-1205-ACE"
+  ],
+  [
+   "1205-V-03",
+   "1205-HV-11"
+  ],
+  [
+   "1205-HV-11",
+   "1205-P-02"
+  ],
+  [
+   "1205-P-02",
+   "1205-HV-12"
+  ],
+  [
+   "1205-HV-12",
+   "HDR-1205-ACE"
+  ],
+  [
+   "HDR-1205-ACE",
+   "1205-E-02"
+  ],
+  [
+   "1205-E-02",
+   "1205-HV-10"
+  ],
+  [
+   "1205-HV-10",
+   "1205-V-03"
+  ],
+  [
+   "LIM-ATM-1305-A",
+   "1305-C-01"
+  ],
+  [
+   "1305-C-01",
+   "1305-HV-01"
+  ],
+  [
+   "1305-HV-01",
+   "HDR-1305-AH"
+  ],
+  [
+   "LIM-ATM-1305-B",
+   "1305-C-02"
+  ],
+  [
+   "1305-C-02",
+   "1305-HV-02"
+  ],
+  [
+   "1305-HV-02",
+   "HDR-1305-AH"
+  ],
+  [
+   "HDR-1305-AH",
+   "1305-E-01"
+  ],
+  [
+   "1305-E-01",
+   "1305-V-01"
+  ],
+  [
+   "1305-V-01",
+   "1305-HV-03"
+  ],
+  [
+   "1305-HV-03",
+   "HDR-1305-SEC"
+  ],
+  [
+   "HDR-1305-SEC",
+   "1305-HV-04"
+  ],
+  [
+   "1305-HV-04",
+   "1305-V-02"
+  ],
+  [
+   "1305-V-02",
+   "1305-HV-05"
+  ],
+  [
+   "1305-HV-05",
+   "HDR-1305-SECO"
+  ],
+  [
+   "HDR-1305-SEC",
+   "1305-HV-06"
+  ],
+  [
+   "1305-HV-06",
+   "1305-V-03"
+  ],
+  [
+   "1305-V-03",
+   "1305-HV-07"
+  ],
+  [
+   "1305-HV-07",
+   "HDR-1305-SECO"
+  ],
+  [
+   "HDR-1305-SECO",
+   "1305-V-04"
+  ],
+  [
+   "1305-V-04",
+   "1305-HV-08"
+  ],
+  [
+   "1305-HV-08",
+   "LIM-CABEZAL-AIRE"
+  ],
+  [
+   "LIM-ATM-1305-K",
+   "1305-K-01"
+  ],
+  [
+   "1305-K-01",
+   "1305-HV-09"
+  ],
+  [
+   "1305-HV-09",
+   "HDR-1305-REG"
+  ],
+  [
+   "HDR-1305-REG",
+   "1305-HV-10"
+  ],
+  [
+   "1305-HV-10",
+   "1305-V-02"
+  ],
+  [
+   "HDR-1305-REG",
+   "1305-HV-11"
+  ],
+  [
+   "1305-HV-11",
+   "1305-V-03"
+  ],
+  [
+   "LIM-AGUA-CRUDA",
+   "1405-HV-09"
+  ],
+  [
+   "1405-HV-09",
+   "1405-V-01"
+  ],
+  [
+   "1405-V-01",
+   "HDR-1405-SUC"
+  ],
+  [
+   "HDR-1405-SUC",
+   "1405-HV-01"
+  ],
+  [
+   "1405-HV-01",
+   "1405-P-01"
+  ],
+  [
+   "1405-P-01",
+   "1405-HV-02"
+  ],
+  [
+   "1405-HV-02",
+   "HDR-1405-DES"
+  ],
+  [
+   "HDR-1405-SUC",
+   "1405-HV-03"
+  ],
+  [
+   "1405-HV-03",
+   "1405-P-02"
+  ],
+  [
+   "1405-P-02",
+   "1405-HV-04"
+  ],
+  [
+   "1405-HV-04",
+   "HDR-1405-DES"
+  ],
+  [
+   "HDR-1405-SUC",
+   "1405-HV-05"
+  ],
+  [
+   "1405-HV-05",
+   "1405-P-03"
+  ],
+  [
+   "1405-P-03",
+   "1405-HV-06"
+  ],
+  [
+   "1405-HV-06",
+   "HDR-1405-DES"
+  ],
+  [
+   "HDR-1405-DES",
+   "1405-HV-07"
+  ],
+  [
+   "1405-HV-07",
+   "LIM-RED-CI"
+  ],
+  [
+   "HDR-1405-DES",
+   "1405-PCV-01"
+  ],
+  [
+   "1405-PCV-01",
+   "1405-HV-08"
+  ],
+  [
+   "1405-HV-08",
+   "1405-V-01"
+  ]
+ ]
+}

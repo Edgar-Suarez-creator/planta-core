@@ -1,0 +1,674 @@
+[
+ {
+  "id": "DS-1105-V-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-V-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-V-01\nServicio: Separador de entrada\nFabricante: Calderería Industrial del Norte\nModelo: SEP-H-1800\nNumero serie: SN-412107",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 53.7 barg\nTemperatura diseno: 157.8 °C\nVolumen: 37.6 m3\nMaterial cuerpo: SA-516 Gr.70"
+  ]
+ },
+ {
+  "id": "DS-1105-V-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-V-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-V-02\nServicio: Torre contactora de TEG\nFabricante: Calderería Industrial del Norte\nModelo: TC-24\nNumero serie: SN-398794",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 30.7 barg\nTemperatura diseno: 86.7 °C\nVolumen: 92.7 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1105-PT-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-PT-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-PT-02\nServicio: Transmisor de presión de la contactora\nFabricante: Instrumentos Magdalena\nModelo: PTX-3051\nNumero serie: SN-722947",
+   "DATOS DE DISEÑO Y OPERACIÓN\nRango min: 0 barg\nRango max: 21.7 barg\nSalida: 4-20 mA HART"
+  ]
+ },
+ {
+  "id": "DS-1105-E-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-E-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-E-02\nServicio: Enfriador de glicol pobre\nFabricante: Termotecnia Andina\nModelo: AC-G40\nNumero serie: SN-571392",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCarga termica: 3755.6 kW\nPresion diseno: 90.2 barg\nArea transferencia: 389.0 m2\nTipo tema: BEM"
+  ]
+ },
+ {
+  "id": "DS-1105-PCV-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-PCV-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-PCV-01\nServicio: Válvula de control de presión del tanque flash\nFabricante: Válvulas Cordillera\nModelo: CV-2-300\nNumero serie: SN-747481",
+   "DATOS DE DISEÑO Y OPERACIÓN\nDiametro: 5.6 in\nClase ansi: 600\nCv: 436.4\nAccion falla: falla abierta"
+  ]
+ },
+ {
+  "id": "DS-1105-V-03",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-V-03",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-V-03\nServicio: Tanque flash de glicol rico\nFabricante: Calderería Industrial del Norte\nModelo: FT-6\nNumero serie: SN-260115",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 17.6 barg\nTemperatura diseno: 141.6 °C\nVolumen: 74.2 m3\nMaterial cuerpo: SA-516 Gr.70"
+  ]
+ },
+ {
+  "id": "DS-1105-E-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-E-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-E-01\nServicio: Intercambiador glicol rico / glicol pobre\nFabricante: Termotecnia Andina\nModelo: HX-GG-120\nNumero serie: SN-963237",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCarga termica: 1732.9 kW\nPresion diseno: 74.2 barg\nArea transferencia: 401.3 m2\nTipo tema: BEM"
+  ]
+ },
+ {
+  "id": "DS-1105-V-04",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-V-04",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-V-04\nServicio: Rehervidor de glicol\nFabricante: Calderería Industrial del Norte\nModelo: RB-350\nNumero serie: SN-185922",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 32.4 barg\nTemperatura diseno: 143.3 °C\nVolumen: 6.6 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1105-V-05",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-V-05",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-V-05\nServicio: Acumulador de glicol pobre\nFabricante: Calderería Industrial del Norte\nModelo: AC-8\nNumero serie: SN-244716",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 40.7 barg\nTemperatura diseno: 138.5 °C\nVolumen: 56.5 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1105-P-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-P-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-P-01\nServicio: Bomba de glicol pobre A\nFabricante: Bombas Andinas S.A.\nModelo: BCA-50-200\nNumero serie: SN-726998",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 341.4 m3/h\nCabeza nominal: 151.6 m\nPotencia motor: 765.3 kW\nVelocidad: 1834.0 rpm\nMaterial carcasa: hierro dúctil"
+  ]
+ },
+ {
+  "id": "DS-1105-P-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1105-P-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1105-P-02\nServicio: Bomba de glicol pobre B\nFabricante: Bombas Andinas S.A.\nModelo: BCA-50-200\nNumero serie: SN-203794",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 100.0 m3/h\nCabeza nominal: 101.9 m\nPotencia motor: 1006.8 kW\nVelocidad: 1556.5 rpm\nMaterial carcasa: hierro dúctil"
+  ]
+ },
+ {
+  "id": "DS-1205-V-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-V-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-V-01\nServicio: Depurador de succión\nFabricante: Calderería Industrial del Norte\nModelo: SCR-36\nNumero serie: SN-426345",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 60.9 barg\nTemperatura diseno: 80.1 °C\nVolumen: 106.1 m3"
+  ]
+ },
+ {
+  "id": "DS-1205-PT-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-PT-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-PT-01\nServicio: Transmisor de presión de succión\nFabricante: Instrumentos Magdalena\nModelo: PTX-3051\nNumero serie: SN-804630",
+   "DATOS DE DISEÑO Y OPERACIÓN\nRango min: 0 barg\nRango max: 106.8 barg\nSalida: 4-20 mA HART"
+  ]
+ },
+ {
+  "id": "DS-1205-C-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-C-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-C-01\nServicio: Compresor reciprocante A\nFabricante: Compresores del Valle\nModelo: RC-2400\nNumero serie: SN-619315",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 266.8 MMSCFD\nPresion succion: 31.1 barg\nPotencia motor: 1384.7 kW\nVelocidad: 1902.4 rpm"
+  ]
+ },
+ {
+  "id": "DS-1205-C-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-C-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-C-02\nServicio: Compresor reciprocante B\nFabricante: Compresores del Valle\nModelo: RC-2400\nNumero serie: SN-246996",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 216.4 MMSCFD\nPresion descarga: 67.7 barg\nPotencia motor: 610.7 kW\nVelocidad: 3098.0 rpm"
+  ]
+ },
+ {
+  "id": "DS-1205-PCV-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-PCV-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-PCV-01\nServicio: Válvula de reciclo de compresión\nFabricante: Válvulas Cordillera\nModelo: CV-4-600\nNumero serie: SN-734145",
+   "DATOS DE DISEÑO Y OPERACIÓN\nDiametro: 6.6 in\nClase ansi: 300\nCv: 568.8\nAccion falla: falla cerrada"
+  ]
+ },
+ {
+  "id": "DS-1205-V-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-V-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-V-02\nServicio: Depurador de descarga\nFabricante: Calderería Industrial del Norte\nModelo: SCR-30\nNumero serie: SN-385295",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 78.6 barg\nTemperatura diseno: 160.3 °C\nVolumen: 106.9 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1205-PT-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-PT-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-PT-02\nServicio: Transmisor de presión de descarga\nFabricante: Instrumentos Magdalena\nModelo: PTX-3051",
+   "DATOS DE DISEÑO Y OPERACIÓN\nRango min: 0 barg\nRango max: 102.5 barg\nSalida: 4-20 mA HART"
+  ]
+ },
+ {
+  "id": "DS-1205-V-03",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-V-03",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-V-03\nServicio: Tanque de aceite de lubricación\nFabricante: Calderería Industrial del Norte\nModelo: TK-LO-2\nNumero serie: SN-909600",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 41.7 barg\nTemperatura diseno: 127.3 °C\nVolumen: 112.0 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1205-P-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-P-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-P-01\nServicio: Bomba de aceite de lubricación A\nFabricante: Bombas Andinas S.A.\nModelo: BEN-25\nNumero serie: SN-421286",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 95.6 m3/h\nCabeza nominal: 71.6 m\nPotencia motor: 701.9 kW\nVelocidad: 3524.2 rpm\nMaterial carcasa: hierro dúctil"
+  ]
+ },
+ {
+  "id": "DS-1205-P-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-P-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-P-02\nServicio: Bomba de aceite de lubricación B\nFabricante: Bombas Andinas S.A.\nModelo: BEN-25\nNumero serie: SN-814851",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 363.6 m3/h\nCabeza nominal: 27.0 m\nPotencia motor: 1131.2 kW\nVelocidad: 3204.9 rpm\nMaterial carcasa: acero inoxidable 316"
+  ]
+ },
+ {
+  "id": "DS-1205-E-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1205-E-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1205-E-02\nServicio: Enfriador de aceite de lubricación\nFabricante: Termotecnia Andina\nModelo: HX-LO-15\nNumero serie: SN-674164",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCarga termica: 3844.8 kW\nPresion diseno: 107.5 barg\nArea transferencia: 457.3 m2\nTipo tema: AES"
+  ]
+ },
+ {
+  "id": "DS-1305-C-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-C-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-C-01\nServicio: Compresor de aire de tornillo A\nFabricante: Compresores del Valle\nModelo: SA-75\nNumero serie: SN-373001",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion succion: 35.5 barg\nPresion descarga: 84.1 barg\nPotencia motor: 5.6 kW\nVelocidad: 1724.2 rpm"
+  ]
+ },
+ {
+  "id": "DS-1305-C-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-C-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-C-02\nServicio: Compresor de aire de tornillo B\nFabricante: Compresores del Valle\nModelo: SA-75\nNumero serie: SN-860321",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 226.2 MMSCFD\nPresion succion: 25.3 barg\nPresion descarga: 74.1 barg\nPotencia motor: 473.2 kW\nVelocidad: 3172.1 rpm"
+  ]
+ },
+ {
+  "id": "DS-1305-E-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-E-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-E-01\nServicio: Posenfriador de aire\nFabricante: Termotecnia Andina\nModelo: AC-A12\nNumero serie: SN-311314",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCarga termica: 3507.9 kW\nPresion diseno: 46.9 barg\nArea transferencia: 106.5 m2\nTipo tema: AKT"
+  ]
+ },
+ {
+  "id": "DS-1305-V-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-V-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-V-01\nServicio: Pulmón de aire húmedo\nFabricante: Calderería Industrial del Norte\nModelo: RV-3\nNumero serie: SN-537283",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 16.9 barg\nTemperatura diseno: 148.6 °C\nVolumen: 23.0 m3\nMaterial cuerpo: SA-516 Gr.70"
+  ]
+ },
+ {
+  "id": "DS-1305-V-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-V-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-V-02\nServicio: Torre secadora A\nFabricante: Calderería Industrial del Norte\nModelo: DS-400\nNumero serie: SN-154941",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 26.8 barg\nTemperatura diseno: 203.6 °C\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1305-V-03",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-V-03",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-V-03\nServicio: Torre secadora B\nFabricante: Calderería Industrial del Norte\nModelo: DS-400\nNumero serie: SN-798197",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 76.9 barg\nTemperatura diseno: 157.3 °C\nVolumen: 6.4 m3\nMaterial cuerpo: SA-516 Gr.70"
+  ]
+ },
+ {
+  "id": "DS-1305-K-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-K-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-K-01\nServicio: Soplador de regeneración del secador\nFabricante: Ventiladores Sabana\nModelo: BL-15\nNumero serie: SN-810084",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 162.7 m3/h\nPresion diferencial: 294.0 mbar\nPotencia motor: 1258.1 kW"
+  ]
+ },
+ {
+  "id": "DS-1305-V-04",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-V-04",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-V-04\nServicio: Pulmón de aire seco\nFabricante: Calderería Industrial del Norte\nModelo: RV-5\nNumero serie: SN-398710",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 89.5 barg\nTemperatura diseno: 95.6 °C\nVolumen: 82.6 m3\nMaterial cuerpo: SA-516 Gr.70"
+  ]
+ },
+ {
+  "id": "DS-1305-PT-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1305-PT-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1305-PT-01\nServicio: Transmisor de presión del cabezal de aire\nFabricante: Instrumentos Magdalena\nModelo: PTX-3051\nNumero serie: SN-106867",
+   "DATOS DE DISEÑO Y OPERACIÓN\nRango min: 0 barg\nSalida: 4-20 mA HART"
+  ]
+ },
+ {
+  "id": "DS-1405-V-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1405-V-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1405-V-01\nServicio: Tanque de agua contra incendio\nFabricante: Calderería Industrial del Norte\nModelo: TK-FW-900\nNumero serie: SN-488209",
+   "DATOS DE DISEÑO Y OPERACIÓN\nPresion diseno: 52.2 barg\nTemperatura diseno: 174.3 °C\nVolumen: 97.6 m3\nMaterial cuerpo: SA-240 316L"
+  ]
+ },
+ {
+  "id": "DS-1405-P-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1405-P-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1405-P-01\nServicio: Bomba contra incendio eléctrica\nFabricante: Bombas Andinas S.A.\nModelo: BCI-1500\nNumero serie: SN-214844",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 342.6 m3/h\nCabeza nominal: 113.7 m\nPotencia motor: 174.8 kW\nVelocidad: 1807.7 rpm\nMaterial carcasa: acero inoxidable 316"
+  ]
+ },
+ {
+  "id": "DS-1405-P-02",
+  "tipo": "hoja_de_datos",
+  "tag": "1405-P-02",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1405-P-02\nServicio: Bomba contra incendio diésel\nFabricante: Bombas Andinas S.A.\nModelo: BCI-1500D\nNumero serie: SN-924009",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 118.4 m3/h\nCabeza nominal: 147.9 m\nPotencia motor: 368.5 kW\nVelocidad: 2086.3 rpm\nMaterial carcasa: acero inoxidable 316"
+  ]
+ },
+ {
+  "id": "DS-1405-P-03",
+  "tipo": "hoja_de_datos",
+  "tag": "1405-P-03",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1405-P-03\nServicio: Bomba jockey\nFabricante: Bombas Andinas S.A.\nModelo: BJ-10\nNumero serie: SN-158428",
+   "DATOS DE DISEÑO Y OPERACIÓN\nCaudal nominal: 296.0 m3/h\nCabeza nominal: 168.3 m\nPotencia motor: 856.4 kW\nVelocidad: 1630.4 rpm\nMaterial carcasa: acero al carbono"
+  ]
+ },
+ {
+  "id": "DS-1405-PT-01",
+  "tipo": "hoja_de_datos",
+  "tag": "1405-PT-01",
+  "paginas": [
+   "HOJA DE DATOS DE EQUIPO\nTag: 1405-PT-01\nServicio: Transmisor de presión de la red contra incendio\nFabricante: Instrumentos Magdalena\nModelo: PTX-3051\nNumero serie: SN-360234",
+   "DATOS DE DISEÑO Y OPERACIÓN\nRango min: 0 barg\nRango max: 43.2 barg\nSalida: 4-20 mA HART"
+  ]
+ },
+ {
+  "id": "MAN-AC-8",
+  "tipo": "manual",
+  "modelo": "AC-8",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo AC-8 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo AC-8, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo AC-8\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo AC-8\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-AC-A12",
+  "tipo": "manual",
+  "modelo": "AC-A12",
+  "fabricante": "Termotecnia Andina",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo AC-A12 · Termotecnia Andina\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo AC-A12, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo AC-A12\n- Limpieza de aletas o haz: cada 180 días\n- Prueba hidrostática: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo AC-A12\n- Síntoma: taponamiento. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: transferencia de calor insuficiente. Revisar aletas. Acción recomendada: inspeccionar y reemplazar aletas si presenta daño.\n- Síntoma: fuga interna. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaques. Acción recomendada: inspeccionar y reemplazar empaques si presenta daño.\n- Síntoma: deficiencia estructural. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-AC-D90",
+  "tipo": "manual",
+  "modelo": "AC-D90",
+  "fabricante": "Termotecnia Andina",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo AC-D90 · Termotecnia Andina\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo AC-D90, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo AC-D90\n- Limpieza de aletas o haz: cada 180 días\n- Prueba hidrostática: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo AC-D90\n- Síntoma: taponamiento. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: transferencia de calor insuficiente. Revisar aletas. Acción recomendada: inspeccionar y reemplazar aletas si presenta daño.\n- Síntoma: fuga interna. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaques. Acción recomendada: inspeccionar y reemplazar empaques si presenta daño.\n- Síntoma: deficiencia estructural. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-AC-G40",
+  "tipo": "manual",
+  "modelo": "AC-G40",
+  "fabricante": "Termotecnia Andina",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo AC-G40 · Termotecnia Andina\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo AC-G40, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo AC-G40\n- Limpieza de aletas o haz: cada 180 días\n- Prueba hidrostática: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo AC-G40\n- Síntoma: taponamiento. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: transferencia de calor insuficiente. Revisar aletas. Acción recomendada: inspeccionar y reemplazar aletas si presenta daño.\n- Síntoma: fuga interna. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaques. Acción recomendada: inspeccionar y reemplazar empaques si presenta daño.\n- Síntoma: deficiencia estructural. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BCA-50-200",
+  "tipo": "manual",
+  "modelo": "BCA-50-200",
+  "fabricante": "Bombas Andinas S.A.",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BCA-50-200 · Bombas Andinas S.A.\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BCA-50-200, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BCA-50-200\n- Inspección de fugas en sello mecánico: cada 7 días\n- Análisis de vibraciones: cada 30 días\n- Cambio de aceite de rodamientos: cada 180 días\n- Cambio de sello mecánico: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BCA-50-200\n- Síntoma: fuga externa de fluido de proceso. Revisar sello mecánico. Acción recomendada: inspeccionar y reemplazar sello mecánico si presenta daño.\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: salida baja. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: falla al arrancar. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: desviación de parámetro. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: avería. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BCI-1500",
+  "tipo": "manual",
+  "modelo": "BCI-1500",
+  "fabricante": "Bombas Andinas S.A.",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BCI-1500 · Bombas Andinas S.A.\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BCI-1500, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BCI-1500\n- Inspección de fugas en sello mecánico: cada 7 días\n- Análisis de vibraciones: cada 30 días\n- Cambio de aceite de rodamientos: cada 180 días\n- Cambio de sello mecánico: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BCI-1500\n- Síntoma: fuga externa de fluido de proceso. Revisar sello mecánico. Acción recomendada: inspeccionar y reemplazar sello mecánico si presenta daño.\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: salida baja. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: falla al arrancar. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: desviación de parámetro. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: avería. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BCI-1500D",
+  "tipo": "manual",
+  "modelo": "BCI-1500D",
+  "fabricante": "Bombas Andinas S.A.",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BCI-1500D · Bombas Andinas S.A.\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BCI-1500D, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BCI-1500D\n- Inspección de fugas en sello mecánico: cada 7 días\n- Análisis de vibraciones: cada 30 días\n- Cambio de aceite de rodamientos: cada 180 días\n- Cambio de sello mecánico: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BCI-1500D\n- Síntoma: fuga externa de fluido de proceso. Revisar sello mecánico. Acción recomendada: inspeccionar y reemplazar sello mecánico si presenta daño.\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: salida baja. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: falla al arrancar. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: desviación de parámetro. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: avería. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BEN-25",
+  "tipo": "manual",
+  "modelo": "BEN-25",
+  "fabricante": "Bombas Andinas S.A.",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BEN-25 · Bombas Andinas S.A.\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BEN-25, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BEN-25\n- Inspección de fugas en sello mecánico: cada 7 días\n- Análisis de vibraciones: cada 30 días\n- Cambio de aceite de rodamientos: cada 180 días\n- Cambio de sello mecánico: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BEN-25\n- Síntoma: fuga externa de fluido de proceso. Revisar sello mecánico. Acción recomendada: inspeccionar y reemplazar sello mecánico si presenta daño.\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: salida baja. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: falla al arrancar. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: desviación de parámetro. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: avería. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BJ-10",
+  "tipo": "manual",
+  "modelo": "BJ-10",
+  "fabricante": "Bombas Andinas S.A.",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BJ-10 · Bombas Andinas S.A.\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BJ-10, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BJ-10\n- Inspección de fugas en sello mecánico: cada 7 días\n- Análisis de vibraciones: cada 30 días\n- Cambio de aceite de rodamientos: cada 180 días\n- Cambio de sello mecánico: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BJ-10\n- Síntoma: fuga externa de fluido de proceso. Revisar sello mecánico. Acción recomendada: inspeccionar y reemplazar sello mecánico si presenta daño.\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: salida baja. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: falla al arrancar. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: desviación de parámetro. Revisar impulsor. Acción recomendada: inspeccionar y reemplazar impulsor si presenta daño.\n- Síntoma: avería. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-BL-15",
+  "tipo": "manual",
+  "modelo": "BL-15",
+  "fabricante": "Ventiladores Sabana",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo BL-15 · Ventiladores Sabana\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo BL-15, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo BL-15\n- Tensión y cambio de correas: cada 90 días\n- Lubricación de rodamientos: cada 90 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo BL-15\n- Síntoma: vibración. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: ruido. Revisar correas. Acción recomendada: inspeccionar y reemplazar correas si presenta daño.\n- Síntoma: falla al arrancar. Revisar correas. Acción recomendada: inspeccionar y reemplazar correas si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar rodamiento. Acción recomendada: inspeccionar y reemplazar rodamiento si presenta daño.\n- Síntoma: avería. Revisar rotor. Acción recomendada: inspeccionar y reemplazar rotor si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-CV-2-300",
+  "tipo": "manual",
+  "modelo": "CV-2-300",
+  "fabricante": "Válvulas Cordillera",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo CV-2-300 · Válvulas Cordillera\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo CV-2-300, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo CV-2-300\n- Prueba de carrera: cada 180 días\n- Cambio de empaquetadura: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo CV-2-300\n- Síntoma: falla al abrir. Revisar actuador. Acción recomendada: inspeccionar y reemplazar actuador si presenta daño.\n- Síntoma: falla al cerrar. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaquetadura. Acción recomendada: inspeccionar y reemplazar empaquetadura si presenta daño.\n- Síntoma: fuga interna. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: operación demorada. Revisar posicionador. Acción recomendada: inspeccionar y reemplazar posicionador si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar diafragma. Acción recomendada: inspeccionar y reemplazar diafragma si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-CV-3-150",
+  "tipo": "manual",
+  "modelo": "CV-3-150",
+  "fabricante": "Válvulas Cordillera",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo CV-3-150 · Válvulas Cordillera\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo CV-3-150, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo CV-3-150\n- Prueba de carrera: cada 180 días\n- Cambio de empaquetadura: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo CV-3-150\n- Síntoma: falla al abrir. Revisar actuador. Acción recomendada: inspeccionar y reemplazar actuador si presenta daño.\n- Síntoma: falla al cerrar. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaquetadura. Acción recomendada: inspeccionar y reemplazar empaquetadura si presenta daño.\n- Síntoma: fuga interna. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: operación demorada. Revisar posicionador. Acción recomendada: inspeccionar y reemplazar posicionador si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar diafragma. Acción recomendada: inspeccionar y reemplazar diafragma si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-CV-4-600",
+  "tipo": "manual",
+  "modelo": "CV-4-600",
+  "fabricante": "Válvulas Cordillera",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo CV-4-600 · Válvulas Cordillera\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo CV-4-600, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo CV-4-600\n- Prueba de carrera: cada 180 días\n- Cambio de empaquetadura: cada 730 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo CV-4-600\n- Síntoma: falla al abrir. Revisar actuador. Acción recomendada: inspeccionar y reemplazar actuador si presenta daño.\n- Síntoma: falla al cerrar. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaquetadura. Acción recomendada: inspeccionar y reemplazar empaquetadura si presenta daño.\n- Síntoma: fuga interna. Revisar asiento. Acción recomendada: inspeccionar y reemplazar asiento si presenta daño.\n- Síntoma: operación demorada. Revisar posicionador. Acción recomendada: inspeccionar y reemplazar posicionador si presenta daño.\n- Síntoma: problemas menores en servicio. Revisar diafragma. Acción recomendada: inspeccionar y reemplazar diafragma si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-DS-400",
+  "tipo": "manual",
+  "modelo": "DS-400",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo DS-400 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo DS-400, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo DS-400\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo DS-400\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-FT-6",
+  "tipo": "manual",
+  "modelo": "FT-6",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo FT-6 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo FT-6, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo FT-6\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo FT-6\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-HX-GG-120",
+  "tipo": "manual",
+  "modelo": "HX-GG-120",
+  "fabricante": "Termotecnia Andina",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo HX-GG-120 · Termotecnia Andina\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo HX-GG-120, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo HX-GG-120\n- Limpieza de aletas o haz: cada 180 días\n- Prueba hidrostática: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo HX-GG-120\n- Síntoma: taponamiento. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: transferencia de calor insuficiente. Revisar aletas. Acción recomendada: inspeccionar y reemplazar aletas si presenta daño.\n- Síntoma: fuga interna. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaques. Acción recomendada: inspeccionar y reemplazar empaques si presenta daño.\n- Síntoma: deficiencia estructural. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-HX-LO-15",
+  "tipo": "manual",
+  "modelo": "HX-LO-15",
+  "fabricante": "Termotecnia Andina",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo HX-LO-15 · Termotecnia Andina\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo HX-LO-15, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo HX-LO-15\n- Limpieza de aletas o haz: cada 180 días\n- Prueba hidrostática: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo HX-LO-15\n- Síntoma: taponamiento. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: transferencia de calor insuficiente. Revisar aletas. Acción recomendada: inspeccionar y reemplazar aletas si presenta daño.\n- Síntoma: fuga interna. Revisar haz de tubos. Acción recomendada: inspeccionar y reemplazar haz de tubos si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaques. Acción recomendada: inspeccionar y reemplazar empaques si presenta daño.\n- Síntoma: deficiencia estructural. Revisar carcasa. Acción recomendada: inspeccionar y reemplazar carcasa si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-PTX-3051",
+  "tipo": "manual",
+  "modelo": "PTX-3051",
+  "fabricante": "Instrumentos Magdalena",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo PTX-3051 · Instrumentos Magdalena\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo PTX-3051, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo PTX-3051\n- Calibración: cada 365 días\n- Verificación de lazo: cada 180 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo PTX-3051\n- Síntoma: lectura anormal de instrumento. Revisar sensor. Acción recomendada: inspeccionar y reemplazar sensor si presenta daño.\n- Síntoma: salida errática. Revisar electrónica. Acción recomendada: inspeccionar y reemplazar electrónica si presenta daño.\n- Síntoma: otro. Revisar manifold. Acción recomendada: inspeccionar y reemplazar manifold si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-RB-350",
+  "tipo": "manual",
+  "modelo": "RB-350",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo RB-350 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo RB-350, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo RB-350\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo RB-350\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-RC-2400",
+  "tipo": "manual",
+  "modelo": "RC-2400",
+  "fabricante": "Compresores del Valle",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo RC-2400 · Compresores del Valle\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo RC-2400, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo RC-2400\n- Análisis de vibraciones: cada 30 días\n- Inspección de válvulas de succión y descarga: cada 180 días\n- Cambio de filtro de aceite: cada 90 días\n- Overhaul de cilindros: cada 1460 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo RC-2400\n- Síntoma: parada espuria. Revisar sensor de vibración. Acción recomendada: inspeccionar y reemplazar sensor de vibración si presenta daño.\n- Síntoma: vibración. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaquetadura. Acción recomendada: inspeccionar y reemplazar empaquetadura si presenta daño.\n- Síntoma: falla al arrancar. Revisar bomba de aceite. Acción recomendada: inspeccionar y reemplazar bomba de aceite si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar válvula de descarga. Acción recomendada: inspeccionar y reemplazar válvula de descarga si presenta daño.\n- Síntoma: desviación de parámetro. Revisar válvula de succión. Acción recomendada: inspeccionar y reemplazar válvula de succión si presenta daño.\n- Síntoma: ruido. Revisar anillos de pistón. Acción recomendada: inspeccionar y reemplazar anillos de pistón si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar filtro de aceite. Acción recomendada: inspeccionar y reemplazar filtro de aceite si presenta daño.\n- Síntoma: avería. Revisar caja multiplicadora. Acción recomendada: inspeccionar y reemplazar caja multiplicadora si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-RV-3",
+  "tipo": "manual",
+  "modelo": "RV-3",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo RV-3 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo RV-3, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo RV-3\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo RV-3\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-RV-5",
+  "tipo": "manual",
+  "modelo": "RV-5",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo RV-5 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo RV-5, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo RV-5\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo RV-5\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-SA-75",
+  "tipo": "manual",
+  "modelo": "SA-75",
+  "fabricante": "Compresores del Valle",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo SA-75 · Compresores del Valle\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo SA-75, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo SA-75\n- Análisis de vibraciones: cada 30 días\n- Inspección de válvulas de succión y descarga: cada 180 días\n- Cambio de filtro de aceite: cada 90 días\n- Overhaul de cilindros: cada 1460 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo SA-75\n- Síntoma: parada espuria. Revisar sensor de vibración. Acción recomendada: inspeccionar y reemplazar sensor de vibración si presenta daño.\n- Síntoma: vibración. Revisar acople. Acción recomendada: inspeccionar y reemplazar acople si presenta daño.\n- Síntoma: fuga externa de fluido de proceso. Revisar empaquetadura. Acción recomendada: inspeccionar y reemplazar empaquetadura si presenta daño.\n- Síntoma: falla al arrancar. Revisar bomba de aceite. Acción recomendada: inspeccionar y reemplazar bomba de aceite si presenta daño.\n- Síntoma: sobrecalentamiento. Revisar válvula de descarga. Acción recomendada: inspeccionar y reemplazar válvula de descarga si presenta daño.\n- Síntoma: desviación de parámetro. Revisar válvula de succión. Acción recomendada: inspeccionar y reemplazar válvula de succión si presenta daño.\n- Síntoma: ruido. Revisar anillos de pistón. Acción recomendada: inspeccionar y reemplazar anillos de pistón si presenta daño.\n- Síntoma: fuga externa de fluido de servicio. Revisar filtro de aceite. Acción recomendada: inspeccionar y reemplazar filtro de aceite si presenta daño.\n- Síntoma: avería. Revisar caja multiplicadora. Acción recomendada: inspeccionar y reemplazar caja multiplicadora si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-SCR-30",
+  "tipo": "manual",
+  "modelo": "SCR-30",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo SCR-30 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo SCR-30, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo SCR-30\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo SCR-30\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-SCR-36",
+  "tipo": "manual",
+  "modelo": "SCR-36",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo SCR-36 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo SCR-36, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo SCR-36\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo SCR-36\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-SEP-H-1800",
+  "tipo": "manual",
+  "modelo": "SEP-H-1800",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo SEP-H-1800 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo SEP-H-1800, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo SEP-H-1800\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo SEP-H-1800\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-TC-24",
+  "tipo": "manual",
+  "modelo": "TC-24",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo TC-24 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo TC-24, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo TC-24\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo TC-24\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-TK-FW-900",
+  "tipo": "manual",
+  "modelo": "TK-FW-900",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo TK-FW-900 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo TK-FW-900, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo TK-FW-900\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo TK-FW-900\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ },
+ {
+  "id": "MAN-TK-LO-2",
+  "tipo": "manual",
+  "modelo": "TK-LO-2",
+  "fabricante": "Calderería Industrial del Norte",
+  "paginas": [
+   "MANUAL DE OPERACIÓN Y MANTENIMIENTO\nModelo TK-LO-2 · Calderería Industrial del Norte\nDescripción general del equipo y de sus subunidades.",
+   "OPERACIÓN\nAntes de arrancar el modelo TK-LO-2, verificar alineación, nivel de lubricante y válvulas de bloqueo abiertas.",
+   "MANTENIMIENTO PREVENTIVO · modelo TK-LO-2\n- Inspección visual externa: cada 90 días\n- Medición de espesores por UT: cada 730 días\n- Inspección interna: cada 1825 días",
+   "SOLUCIÓN DE PROBLEMAS · modelo TK-LO-2\n- Síntoma: fuga externa de fluido de proceso. Revisar boquilla. Acción recomendada: inspeccionar y reemplazar boquilla si presenta daño.\n- Síntoma: taponamiento. Revisar demister. Acción recomendada: inspeccionar y reemplazar demister si presenta daño.\n- Síntoma: deficiencia estructural. Revisar cuerpo. Acción recomendada: inspeccionar y reemplazar cuerpo si presenta daño.\n- Síntoma: lectura anormal de instrumento. Revisar visor de nivel. Acción recomendada: inspeccionar y reemplazar visor de nivel si presenta daño.\n- Síntoma: otro. Revisar internos. Acción recomendada: inspeccionar y reemplazar internos si presenta daño."
+  ]
+ }
+]

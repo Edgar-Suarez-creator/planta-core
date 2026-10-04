@@ -1,0 +1,271 @@
+{
+ "niveles": [
+  [
+   1,
+   "Industria"
+  ],
+  [
+   2,
+   "Categoría de negocio"
+  ],
+  [
+   3,
+   "Instalación"
+  ],
+  [
+   4,
+   "Planta/Unidad"
+  ],
+  [
+   5,
+   "Sección/Sistema"
+  ],
+  [
+   6,
+   "Unidad de equipo"
+  ],
+  [
+   7,
+   "Subunidad"
+  ],
+  [
+   8,
+   "Componente/Ítem mantenible"
+  ],
+  [
+   9,
+   "Parte"
+  ]
+ ],
+ "modos": {
+  "BRD": "Avería",
+  "ELP": "Fuga externa de fluido de proceso",
+  "ELU": "Fuga externa de fluido de servicio",
+  "ERO": "Salida errática",
+  "FTS": "Falla al arrancar",
+  "FTO": "Falla al abrir",
+  "FTC": "Falla al cerrar",
+  "DOP": "Operación demorada",
+  "HIO": "Salida alta",
+  "LOO": "Salida baja",
+  "INL": "Fuga interna",
+  "IHT": "Transferencia de calor insuficiente",
+  "NOI": "Ruido",
+  "OHE": "Sobrecalentamiento",
+  "PDE": "Desviación de parámetro",
+  "PLU": "Taponamiento",
+  "SER": "Problemas menores en servicio",
+  "STD": "Deficiencia estructural",
+  "UST": "Parada espuria",
+  "VIB": "Vibración",
+  "AIR": "Lectura anormal de instrumento",
+  "OTH": "Otro"
+ },
+ "mecanismos": {
+  "1.1": "Fuga",
+  "1.2": "Vibración",
+  "1.3": "Holgura/desalineación",
+  "1.6": "Agarrotamiento",
+  "2.1": "Cavitación",
+  "2.2": "Corrosión",
+  "2.3": "Erosión",
+  "2.4": "Desgaste",
+  "2.6": "Fatiga",
+  "2.7": "Sobrecalentamiento",
+  "3.1": "Falla de control",
+  "3.3": "Falla de señal",
+  "4.3": "Sin energía",
+  "5.1": "Bloqueo/taponamiento",
+  "5.2": "Contaminación"
+ },
+ "causas": {
+  "1": "Relacionada con el diseño",
+  "2": "Fabricación/instalación",
+  "3": "Operación/mantenimiento",
+  "4": "Gestión",
+  "5": "Misceláneas"
+ },
+ "clases": {
+  "P": {
+   "nombre": "Bomba centrífuga",
+   "codigo": "PU"
+  },
+  "C": {
+   "nombre": "Compresor",
+   "codigo": "CO"
+  },
+  "V": {
+   "nombre": "Recipiente",
+   "codigo": "VE"
+  },
+  "E": {
+   "nombre": "Intercambiador de calor",
+   "codigo": "HE"
+  },
+  "K": {
+   "nombre": "Soplador",
+   "codigo": null
+  },
+  "PCV": {
+   "nombre": "Válvula de control",
+   "codigo": "VA"
+  },
+  "PT": {
+   "nombre": "Transmisor de presión",
+   "codigo": null
+  }
+ },
+ "subunidades": {
+  "P": {
+   "Transmisión": [
+    "acople",
+    "rodamiento motor"
+   ],
+   "Unidad de bombeo": [
+    "sello mecánico",
+    "impulsor",
+    "rodamiento",
+    "carcasa"
+   ],
+   "Control y monitoreo": [
+    "sensor de vibración"
+   ],
+   "Lubricación": [
+    "aceite",
+    "visor de nivel"
+   ]
+  },
+  "C": {
+   "Transmisión": [
+    "acople",
+    "caja multiplicadora"
+   ],
+   "Unidad de compresión": [
+    "válvula de succión",
+    "válvula de descarga",
+    "anillos de pistón",
+    "empaquetadura"
+   ],
+   "Control y monitoreo": [
+    "sensor de vibración",
+    "transmisor de temperatura"
+   ],
+   "Lubricación": [
+    "bomba de aceite",
+    "filtro de aceite"
+   ]
+  },
+  "V": {
+   "Recipiente": [
+    "cuerpo",
+    "boquilla",
+    "internos",
+    "demister"
+   ],
+   "Instrumentación": [
+    "visor de nivel"
+   ]
+  },
+  "E": {
+   "Intercambiador": [
+    "haz de tubos",
+    "carcasa",
+    "empaques",
+    "aletas"
+   ]
+  },
+  "K": {
+   "Transmisión": [
+    "correas",
+    "rodamiento"
+   ],
+   "Soplador": [
+    "rotor",
+    "carcasa"
+   ]
+  },
+  "PCV": {
+   "Válvula": [
+    "cuerpo",
+    "asiento",
+    "empaquetadura"
+   ],
+   "Actuador": [
+    "diafragma",
+    "posicionador"
+   ]
+  },
+  "PT": {
+   "Instrumento": [
+    "sensor",
+    "electrónica",
+    "manifold"
+   ]
+  }
+ },
+ "propiedades_obligatorias": {
+  "P": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "caudal_nominal",
+   "cabeza_nominal",
+   "potencia_motor",
+   "velocidad",
+   "material_carcasa"
+  ],
+  "C": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "caudal_nominal",
+   "presion_succion",
+   "presion_descarga",
+   "potencia_motor",
+   "velocidad"
+  ],
+  "V": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "presion_diseno",
+   "temperatura_diseno",
+   "volumen",
+   "material_cuerpo"
+  ],
+  "E": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "carga_termica",
+   "presion_diseno",
+   "area_transferencia",
+   "tipo_tema"
+  ],
+  "K": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "caudal_nominal",
+   "presion_diferencial",
+   "potencia_motor"
+  ],
+  "PCV": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "diametro",
+   "clase_ansi",
+   "cv",
+   "accion_falla"
+  ],
+  "PT": [
+   "fabricante",
+   "modelo",
+   "numero_serie",
+   "rango_min",
+   "rango_max",
+   "salida"
+  ]
+ }
+}

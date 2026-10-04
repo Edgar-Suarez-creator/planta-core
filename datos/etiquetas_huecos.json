@@ -1,0 +1,30 @@
+{
+ "sin_hoja": [
+  "1105-PT-01",
+  "1205-E-01",
+  "1405-PCV-01"
+ ],
+ "propiedades_faltantes": {
+  "1205-V-01": [
+   "material_cuerpo"
+  ],
+  "1205-C-01": [
+   "presion_descarga"
+  ],
+  "1205-C-02": [
+   "presion_succion"
+  ],
+  "1205-PT-02": [
+   "numero_serie"
+  ],
+  "1305-C-01": [
+   "caudal_nominal"
+  ],
+  "1305-V-02": [
+   "volumen"
+  ],
+  "1305-PT-01": [
+   "rango_max"
+  ]
+ }
+}
